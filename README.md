@@ -1,2 +1,1 @@
-# website-dashboard
-website dashboard
+# Shining Stars Dashboard
